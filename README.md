@@ -64,7 +64,7 @@ Additionally, DifferentialEquations.jl comes with built-in analysis features, in
 - [Parameter Estimation and Bayesian Analysis](https://docs.sciml.ai/Overview/stable/highlevels/inverse_problems/)
 - Neural differential equations with [DiffEqFlux.jl](https://docs.sciml.ai/DiffEqFlux/stable/)
   for efficient scientific machine learning (scientific ML) and scientific AI.
-- Automatic distributed, multithreaded, and GPU [Parallel Ensemble Simulations](https://diffeq.sciml.ai/dev/features/ensemble/)
+- Automatic distributed, multithreaded, and GPU [Parallel Ensemble Simulations](https://docs.sciml.ai/DiffEqDocs/stable/features/ensemble/)
 - [Global Sensitivity Analysis](https://docs.sciml.ai/GlobalSensitivity/stable/)
 - [Uncertainty Quantification](https://docs.sciml.ai/Overview/stable/highlevels/uncertainty_quantification/)
 
@@ -72,8 +72,8 @@ This gives a powerful mixture of speed and productivity features to help you
 solve and analyze your differential equations faster.
 
 For information on using the package,
-[see the stable documentation](https://diffeq.sciml.ai/stable/). Use the
-[in-development documentation](https://diffeq.sciml.ai/dev/) for the version of
+[see the stable documentation](https://docs.sciml.ai/DiffEqDocs/stable/). Use the
+[in-development documentation](https://docs.sciml.ai/DiffEqDocs/dev/) for the version of
 the documentation which contains the unreleased features.
 
 All of the algorithms are thoroughly tested to ensure accuracy via convergence
@@ -85,10 +85,10 @@ Benchmarks
 If you find any equation where there seems to be an error, please open an issue.
 
 If you have any questions, or just want to chat about solvers/using the package,
-please feel free to chat in the [Gitter channel](https://gitter.im/JuliaDiffEq/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+please feel free to chat in the [Zulip channel](https://julialang.zulipchat.com/#narrow/stream/279055-sciml-bridged).
 For bug reports, feature requests, etc., please submit an issue. If you're
 interested in contributing, please see the
-[Developer Documentation](http://devdocs.sciml.ai/latest/).
+[Developer Documentation](https://devdocs.sciml.ai/latest/).
 
 ## Supporting and Citing
 
@@ -97,7 +97,7 @@ would like to help support it, please star the repository, as such metrics may
 help us secure funding in the future. If you use SciML software as part
 of your research, teaching, or other activities, we would be grateful if you
 could cite our work.
-[Please see our citation page for guidelines](http://sciml.ai/citing.html).
+[Please see our citation page for guidelines](https://sciml.ai/citing.html).
 
 --------------------------------
 
